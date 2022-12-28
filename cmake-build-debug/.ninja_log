@@ -1,0 +1,10 @@
+# ninja log v5
+905	992	1672234089426514353	calculator	a9d8d82ea729d6f5
+4	905	1672234089333866285	CMakeFiles/calculator.dir/console-calculator.cpp.o	7dfe1f0481328382
+5	657	1672231595768787817	CMakeFiles/calculator.dir/calculator-gui.cpp.o	f50f1f1bc0b92f9a
+4	652	1672227619315001680	CMakeFiles/calculator.dir/main.cpp.o	c5881c32b01cfe6e
+7	862	1672233281673470617	CMakeFiles/calculator-app.dir/calculator-gui.cpp.o	34fb8545e3c188c
+24	923	1672238205007529013	CMakeFiles/calculator.dir/console-calculator.cpp.o	62c098d0daa19fb5
+923	1037	1672238205127260236	calculator	a9d8d82ea729d6f5
+7	819	1672238837612414064	CMakeFiles/calculator.dir/console-calculator.cpp.o	62c098d0daa19fb5
+819	907	1672238837709033305	calculator	a9d8d82ea729d6f5
